@@ -1,0 +1,14 @@
+# 캐시 관련
+.cache/
+dist/
+build/
+
+# 환경 설정
+.env
+
+# 의존성
+node_modules/
+
+# 에디터 설정
+.vscode/
+.DS_Store
